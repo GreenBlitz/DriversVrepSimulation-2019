@@ -47,6 +47,6 @@ The robots in the simulation are controlled by a joystick like an Xbox controlle
 - LB - pick up a ball or a disk in range of 60 cm from the elevator, works only when the elevator is in the lowest level.
 - LR - throw the grabbed object, if is in a range of 60 cm from a tower or bay and have a disk then place the disk in the bay or in the tower, dependent on your elevator level.
 
-*For any support and update request, you are more than welcome to contact us through any means including GitHub.
-*We Would answer to you the faster we can.
+* For any support and update request, you are more than welcome to contact us through any means including GitHub.
+* We Would answer to you the faster we can.
 GreenBlitz 4590.
