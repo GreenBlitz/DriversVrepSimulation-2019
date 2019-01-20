@@ -25,12 +25,12 @@ V-Rep is a robot simulation, when you are using the simulation, you are using it
 
 ### Movement
 
-To move in the simulation, you need to press the movement button in left side of the toolbar and move by clicking on the left click and moving the mouse.
-To change your perspective, press the angle button in left side of the toolbar, press on the left button and to move the mouse.
+To move in the simulation, you need to press the movement button ![image](https://user-images.githubusercontent.com/25615500/51438487-9b334e80-1cb5-11e9-98db-2c0f07f43592.png) in left side of the toolbar and move by clicking on the left click and moving the mouse.
+To change your perspective, press the prespective button ![image](https://user-images.githubusercontent.com/25615500/51438512-ed746f80-1cb5-11e9-8f9a-e4653c6711be.png) in left side of the toolbar, press on the left button and to move the mouse.
 
 ### Activation
 
-To activate the simulation press on the activation button, in the middle of the toolbar, (triangle shape), and to close the simulation run press on the stop buttons, in middle of the toolbar.
+To activate the simulation press on the activation button ![image](https://user-images.githubusercontent.com/25615500/51438533-201e6800-1cb6-11e9-9a4a-fedf843df463.png) in the middle of the toolbar. In addidtion, to close the simulation run press on the stop button ![image](https://user-images.githubusercontent.com/25615500/51438543-36c4bf00-1cb6-11e9-8db4-00aef72ec262.png) in middle of the toolbar.
 
 *For more information about V-Rep see V-Rep BubbleRob tuturial : http://www.coppeliarobotics.com/helpFiles/en/bubbleRobTutorial.htm.
 
