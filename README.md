@@ -32,6 +32,8 @@ To change your perspective, press the angle button in left side of the toolbar, 
 
 To activate the simulation press on the activation button, in the middle of the toolbar, (triangle shape), and to close the simulation run press on the stop buttons, in middle of the toolbar.
 
+*For more information about V-Rep see V-Rep BubbleRob tuturial : http://www.coppeliarobotics.com/helpFiles/en/bubbleRobTutorial.htm.
+
 ## Joystick Buttons
 
 The robots in the simulation are controlled by a joystick like an Xbox controller.
