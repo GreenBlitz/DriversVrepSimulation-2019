@@ -1,5 +1,7 @@
 # DriversVrepSimulation-2019
 
+![image](https://user-images.githubusercontent.com/25615500/51441423-1d356e80-1cda-11e9-8bb6-7ef0bb4410cf.png)                           ![image](https://user-images.githubusercontent.com/25615500/51442072-7654d080-1ce1-11e9-9420-0460c5511492.png)
+
 GreenBlitz Driver Simulation is a robot simulation which purpose is to train drivers, and to simulate games and strategies.
 
 ## Features
@@ -68,5 +70,8 @@ The robots in the simulation are controlled by a joystick like an Xbox controlle
 - LB - pick up a ball or a disk in range of 60 cm from the elevator, works only when the elevator is in the lowest level.
 - LR - throw the grabbed object, if is in a range of 60 cm from a tower or bay and have a disk then place the disk in the bay or in the tower, dependent on your elevator level.
 
-*For any support and request, you are more than welcome to contact us through any means including GitHub.
-GreenBlitz 4590.*
+*For any support and request, you are more than welcome to contact us through any means including GitHub.*
+
+**This simulation was created by Ofek Eshet, a member of GreenBlitz Programing Team, Commander and chief, First Lieutenate and the only active member of GreenBlitz Simulation Catagory.**
+
+Thanks for our beloved mentor shahar for his support and knowledge in creation of the simulation.
