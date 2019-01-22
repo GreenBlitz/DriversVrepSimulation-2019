@@ -7,6 +7,7 @@ GreenBlitz Driver Simulation is a robot simulation which purpose is to train dri
 ## Features
 
 The simulation supports the entire 2019 game, with an option to drive couple of robots at the same time.
+In addition, the simulation offers a scoring system, which calculate the current score of each team!
 
 ![image](https://user-images.githubusercontent.com/25615500/51440335-bbbbd280-1cce-11e9-89d0-69c829340b5b.png)
 *View of the entire field*
@@ -48,7 +49,7 @@ To activate the simulation press on the activation button ![image](https://user-
 ### V-Rep Basic Variables
 
 In V-Rep the user sets a lot of basic values which change the simulation behavior.
-We recommend on those setting but we advise to check on which settings the simulation work the best on your computer.
+We recommend on those setting, but we advise to check on which settings the simulation work the best on your computer.
 
 1. Tick time- each tick in the simulation is taken at least the time you set. we recommend on 25 milisec for tick, but if the simulation runs if a big delay you can set the tick time longer. ![image](https://user-images.githubusercontent.com/25615500/51438602-f7e33900-1cb6-11e9-9fbc-896133de274d.png)
 2. Accuracy - we recommend the best accuracy but if the simulation run to slow if a big delay, you may change the accuracy in the following bar: ![image](https://user-images.githubusercontent.com/25615500/51438619-34af3000-1cb7-11e9-8289-f822281a2d96.png)
@@ -69,6 +70,14 @@ The robots in the simulation are controlled by a joystick like an Xbox controlle
 - X - same as b but with balls.
 - LB - pick up a ball or a disk in range of 60 cm from the elevator, works only when the elevator is in the lowest level.
 - LR - throw the grabbed object, if is in a range of 60 cm from a tower or bay and have a disk then place the disk in the bay or in the tower, dependent on your elevator level.
+
+## Scoring System
+
+The scoring system calculate the teams scores, to activate the score system you need to press the start button in the first joystick (joystick zero).
+After the start button is pressed, a window will open with the current score of the teams, each press on the button will update the score in the screen.
+
+![image](https://user-images.githubusercontent.com/25615500/51540058-294a3900-1e5e-11e9-9bf3-aa1c5e214f04.png)
+
 
 *For any support and request, you are more than welcome to contact us through any means including GitHub.*
 
