@@ -63,7 +63,9 @@ We recommend on those setting, but we advise to check on which settings the simu
 The robots in the simulation are controlled by a joystick like an Xbox controller.
 - Left axis - forward and backward -move value
 - Right axis - side axis - rotate value
-- Povs - up and down - control the elevator
+- forward pov - set the elvetor at the high level
+- left pov - set the elvetor at the middle level
+- backward pov - set the elvetor at the low level
 - Y - change gear from power to speed and backward.
 - A - open a window with a view from the robot driver station, and after it every press change the view to another driver station or to the robot camera.
 - B - if the robot is near his team feeder, than the feeder throw one disk
