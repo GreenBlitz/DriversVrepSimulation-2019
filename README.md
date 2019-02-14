@@ -80,6 +80,8 @@ After the start button is pressed, a window will open with the current score of 
 
 ![image](https://user-images.githubusercontent.com/25615500/51540058-294a3900-1e5e-11e9-9bf3-aa1c5e214f04.png)
 
+### Note
+*All the simulation files, which are inside a package (not at the front page) are in progress or old versions of the simulation.*
 
 *For any support and request, you are more than welcome to contact us through any means including GitHub.*
 
