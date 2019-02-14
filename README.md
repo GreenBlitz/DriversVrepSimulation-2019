@@ -1,4 +1,4 @@
-# DriversVrepSimulation-2019
+# FRC DriversVrepSimulation-2019
 
 ![image](https://user-images.githubusercontent.com/25615500/51441423-1d356e80-1cda-11e9-8bb6-7ef0bb4410cf.png)                           ![image](https://user-images.githubusercontent.com/25615500/51442072-7654d080-1ce1-11e9-9420-0460c5511492.png)
 
@@ -80,6 +80,8 @@ After the start button is pressed, a window will open with the current score of 
 
 ![image](https://user-images.githubusercontent.com/25615500/51540058-294a3900-1e5e-11e9-9bf3-aa1c5e214f04.png)
 
+### Note
+*All the simulation files, which are inside a package (not at the front page) are in progress or old versions of the simulation.*
 
 *For any support and request, you are more than welcome to contact us through any means including GitHub.*
 
