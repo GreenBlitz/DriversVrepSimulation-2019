@@ -88,3 +88,5 @@ After the start button is pressed, a window will open with the current score of 
 **This simulation was created by Ofek Eshet, a member of GreenBlitz Programing Team, Commander and chief, First Lieutenate and the only active member of GreenBlitz Simulation Catagory.**
 
 Thanks for our beloved mentor shahar for his support and knowledge in creation of the simulation.
+
+Contact US: GreenBlitzSimulation@gmail.com .
