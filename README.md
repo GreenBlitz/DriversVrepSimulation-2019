@@ -80,6 +80,13 @@ After the start button is pressed, a window will open with the current score of 
 
 ![image](https://user-images.githubusercontent.com/25615500/51540058-294a3900-1e5e-11e9-9bf3-aa1c5e214f04.png)
 
+## Climbing
+
+In order to enter climbing mode, press back on the low ramp.
+Than you will enter climbing mode.
+In order to move up press B, and to go down press X.
+To go backward or forword use the y axe of the left stick.
+
 ### Note
 *All the simulation files, which are inside a package (not at the front page) are in progress or old versions of the simulation.*
 
